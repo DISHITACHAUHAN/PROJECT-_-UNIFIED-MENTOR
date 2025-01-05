@@ -44,7 +44,7 @@ steps to achieve this:
 <ul>
 <li>When the "Start" button is clicked, get the user's input for the target date and time.</li>
 <li>Calculate the time remaining from the current time to the target time.</li>
-<li> Update the display with the remaining time in days, hours, minutes, and seconds.<li>
+<li> Update the display with the remaining time in days, hours, minutes, and seconds.</li>
 <li> Use JavaScript's setInterval() function to update the countdown in real-time.</li>
 </ul>
 <BR>
