@@ -22,3 +22,4 @@
   <li>Thecalculator should be capable of performing basic arithmetic operations:
  addition, subtraction, multiplication, and division.</li>
  </ul>
+## PROJECT 2 : COUNTDOWN TIMER  
