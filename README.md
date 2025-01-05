@@ -38,6 +38,7 @@ following elements:
 ✒ CSS Styling Apply CSS styles to make the countdown timer visually appealing. You can
 customize fonts, colors, and layout to enhance the user interface.
 <br>
+<br>
 ✒ JavaScript Functionality Implement the timer functionality using JavaScript. Here are the
 steps to achieve this:
 <ul>
