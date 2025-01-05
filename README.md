@@ -4,8 +4,9 @@
  JavaScript.
 <br>
 ✒ User Interface:
- ● Createauser-friendly interface for the calculator. Design a layout that includes a
- display for input and results.
- ● Include buttons for digits (0-9), decimal point, and operators (+,-, *, /).
- ● Addspecial buttons for "Clear" and "Equals."
-  
+<ul>
+<li> ● Createauser-friendly interface for the calculator. Design a layout that includes a
+ display for input and results.</li>
+<li> ● Include buttons for digits (0-9), decimal point, and operators (+,-, *, /).</li>
+ <li>● Addspecial buttons for "Clear" and "Equals."</li>
+</ul>
